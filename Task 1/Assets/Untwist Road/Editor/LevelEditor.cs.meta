@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: 8954109632a8b5448bf12d5a5c8e6588
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - m_ViewDataDictionary: {instanceID: 0}
+  - light: {fileID: 7798878897590048226, guid: 05bd6f6f4a4a1124290704f80bbad643, type: 3}
+  - players: {fileID: 1211752854938119649, guid: a7342d2912633f74b8470ffb18f3ca15,
+      type: 3}
+  - level: {fileID: 1726760042356025811, guid: fca07b72dff696740ba20b5728828eee, type: 3}
+  - finish: {fileID: 5809744718649305408, guid: 98696858344ea4f4c9afb4b5d1186471,
+      type: 3}
+  - eventSystem: {fileID: 6893466187670180236, guid: b5bb77838cf8fc14eb907de555d330cd,
+      type: 3}
+  - particle: {fileID: 7700185154844980737, guid: beecddd837441e641bae27713ebedf5e,
+      type: 3}
+  - platform: {fileID: 5720697611498164339, guid: 2548bcd957756c149b041dce3790370a,
+      type: 3}
+  - bridge: {fileID: 1638564835034415986, guid: e31a048de13744345816a8f505931ea9,
+      type: 3}
+  - bigAdder: {fileID: 4494509259636412420, guid: 6ac0dccb766fe914297e735ca4bd1453,
+      type: 3}
+  - smallAdder: {fileID: 2311317148752612363, guid: 56a97f7cb01402c4b956c4e4158dfdaa,
+      type: 3}
+  - coin: {fileID: 2979805044701534051, guid: c63146b6c915f964aa6c740ab30d987d, type: 3}
+  - cones: {fileID: 6894854229967567161, guid: 4953f7bebf8b45c4b8c2fbc6a554ca2f, type: 3}
+  - cubes: {fileID: 8818921530132078070, guid: 6391778f96f4c9245ad475e7808cf796, type: 3}
+  - window: {fileID: 3115291894140381428, guid: 7d976c99edb44eb4bb6920d2ae3c5907,
+      type: 3}
+  - spawnOn: {fileID: 736453913161685316, guid: a58284b336e2194498f562a4c3a34825,
+      type: 3}
+  - deadTrigger: {fileID: 2557638369358592828, guid: 9ac3c0b6867bdc24c8dc5baedf386fc0,
+      type: 3}
+  - jumpTrigger: {fileID: 5681953367069101990, guid: dc96c6bf2d1f4614ea1eedfe7718e1fc,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

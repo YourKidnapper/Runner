@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Untwist Road/Scenes/Menu.unity
+    guid: bf139cb9bf685484b8dc4cde87280249
+  - enabled: 1
+    path: Assets/Untwist Road/Scenes/Level_1.unity
+    guid: 218b9455104fb9e478105bb1e5954007
+  - enabled: 1
+    path: Assets/Untwist Road/Scenes/Level_2.unity
+    guid: d1165325fe1564c479543203af47fd95
+  - enabled: 1
+    path: Assets/Untwist Road/Scenes/Level_3.unity
+    guid: 75e48f5f46090eb46bca2e0f52dded5a
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 7f4e0b1aa4de5d94db5ef038307f5d72,
+      type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 4ff3aad6d03ae3840a2fade1b1da96bf, type: 2}
